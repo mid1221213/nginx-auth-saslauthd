@@ -1,7 +1,6 @@
 
 /*
- * Copyright (C) Igor Sysoev
- * Copyright (C) Nginx, Inc.
+ * Copyright Alexandre Jousset & others (see README.md)
  */
 
 
